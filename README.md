@@ -7,6 +7,8 @@ Bienvenue sur le readme.md de mon projet, vous y trouverez des documents intére
 
 Document Psychologie : https://docs.google.com/presentation/d/1ydDv23IEdnVfKF5Z-nfrhL-W5ALFuoSQrCtdm3FuP-U/
 
-Document Social Engineering / OSINT : https://docs.google.com/document/d/1nV3Q0KENUQSTJyVsnAuup_slgGclZj2MtHh_vNq4BG0
+Document Social Engineering : https://docs.google.com/document/d/1nV3Q0KENUQSTJyVsnAuup_slgGclZj2MtHh_vNq4BG0
+
+Document OSINT : https://docs.google.com/document/d/1VUIfQOsVKEwYnnU--iyNGp9y4j8wWgqDLpqvXANWNBU
 
 Bonne lecture à toutes et à tous.
