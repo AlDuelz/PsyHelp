@@ -1,5 +1,5 @@
 # SEOSINTHelp
-Documents  d'aide pour la psychologie et le SE/OSINT.
+Documents  d'aide pour la psychologie côté Troubles Mentaux, le SE et l'OSINT.
 
 _____________________________________________________________________________________________________________
 
