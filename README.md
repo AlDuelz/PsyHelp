@@ -1,5 +1,5 @@
 # Psy-OSINT
-Documents  d'aide pour la psychologie côté Troubles Mentaux et l'OSINT.
+Documents  d'aide pour la psychologie Médicale (Troubles Mentaux) et l'OSINT.
 
 _____________________________________________________________________________________________________________
 
